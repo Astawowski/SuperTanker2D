@@ -1,2 +1,6 @@
 # SuperTanker2D
 My own game created in Java during 2nd semester PJATK studies.
+
+
+
+-To launch the game either compile all the source files yourself or just execute the SuperTanker2D.exe file.    
