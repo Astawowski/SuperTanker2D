@@ -11,3 +11,4 @@ B) Compile the project on your own. Textures & Font paths are set to '../C++Game
 
 
 NOTE !!! - game window size is FIXED. DO NOT change its dimensions. DO NOT maximize the window.
+![Image](https://github.com/user-attachments/assets/91439a88-7288-4043-8b06-0bcf5ff2d7cd)
