@@ -1,8 +1,7 @@
 # SuperTanker2D
-My own game created in C++ during 2nd semester PJATK studies.
+My own game created in C++ as an university project during 2nd semester PJATK studies.
 
-
-
+This Game is a tank skirmish. Beat levels with every next one being harder then the previous, progress and upgrade your vehicle. Play on randomly generated map, face enemies with AI written by me.  
 
 -To launch the game either:
 A) Download the release, unpack and execute the 'SuperTanker2D.exe' file inside 'bin64'.    
